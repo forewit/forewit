@@ -21,9 +21,7 @@ forewit = {
 
 </pre>
 
-<pre lang="javascript">
-  <span>
-    <p lang="javascript">let j = 2</p>
-  </span>
-  <span>"Javascript <img height="12" width="12" src="js.png" />,"</span>
+<pre >
+  languages: [
+  <span>  "Javascript <img height="12" width="12" src="js.png" />,"</span>
 </pre>
