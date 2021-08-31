@@ -19,9 +19,9 @@ forewit = {
   ]
 }
 
-</pre>
-
-<pre lang="javascript">
-<span>let j = "test"</span>
+<pre>
+<span>
+  <pre lang="javascript">test</pre>
+</span>
 <pre><span>"Javascript <img height="12" width="12" src="js.png" />,"</span></pre>
 </pre>
