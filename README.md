@@ -1,21 +1,20 @@
 ![Gif](gm.gif)
 
 ```rust
-{
-    "name": "Marc Anderson",
-    "pseudonym": "Forewit",
-    "interests": [
+struct Forewit {
+    name: "Marc Anderson",
+    interests: [
         "D&D",
         "Woodworking",
         "Gaming",
         "Programming"
     ],
-    "languages" : [
+    languages : [
         "Javascript",
         "HTML / CSS",
         "Java"
     ],
-    "learning" : [
+    learning : [
         "Rust",
         "WebAssembly",
         "WebGL"
