@@ -22,7 +22,7 @@ forewit = {
 </pre>
 
 <pre lang="javascript">
-test
+
 <span>"Javascript <img height="12" width="12" src="js.png" />,"</span>
-test
+
 </pre>
