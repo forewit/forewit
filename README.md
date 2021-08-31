@@ -1,7 +1,7 @@
 ![Gif](gm.gif)
 
 ```rust
-struct Forewit {
+let mut me = Person {
     name: "Marc Anderson",
     interests: [
         "D&D",
