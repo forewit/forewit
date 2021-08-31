@@ -1,8 +1,3 @@
-<table>
-  <tr>
-    <td><img src="gm.gif" /></td>
-    <td>
-    
 ```javascript
 forewit = {
   name: "Marc Anderson",
@@ -23,7 +18,3 @@ forewit = {
   ]
 }
 ```
-
-</td>
-</tr>
-</table>
