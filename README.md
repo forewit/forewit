@@ -1,9 +1,18 @@
-| ![Gif](gm.gif) |
-```rust
-test 
-test
-``` |
-| :---: | :---: |
+![Gif](gm.gif)
 
+```json
+{
+  name: "Marc Anderson"
+  pseudonym: "Forewit"
+  interests: [
+    "D&D",
+    "Woodworking",
+    "Coding"
+  ],
+  
+    
+  
 
-# My GitHub Profile
+}
+
+```
