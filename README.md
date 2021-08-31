@@ -15,9 +15,9 @@ forewit = {
   learning: [
     "Rust",
     "WebAssembly",
-    "<img height="12" width="12" src="js.png" />WebGL"
+    "WebGL"
   ]
 }
 
 </pre>
-
+<img height="12" width="12" src="js.png" />
