@@ -21,7 +21,7 @@ forewit = {
 
 </pre>
 
-<pre>
+<pre lang="javascript">
   <span>
     <p lang="javascript">let j = 2</p>
   </span>
