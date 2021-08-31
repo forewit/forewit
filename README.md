@@ -19,6 +19,8 @@ forewit = {
   ]
 }
 
+</pre>
+
 <pre>
 <span>
   <pre lang="javascript">test</pre>
