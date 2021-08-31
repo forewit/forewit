@@ -1,6 +1,6 @@
 ![Gif](gm.gif)
 
-```json
+```
 {
     "name": "Marc Anderson",
     "pseudonym": "Forewit",
