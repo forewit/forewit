@@ -1,5 +1,4 @@
-<pre lang="javascript">
-
+<pre >
 forewit = {
   name: "Marc Anderson",
   interests: [
@@ -9,7 +8,7 @@ forewit = {
     "Programming"
   ],
   languages: [
-<span>"Javascript <img height="12" width="12" src="js.png" />,"</span>
+  <span>  "Javascript <img height="12" width="12" src="js.png" />,"</span>
     "HTML / CSS",
   ],
   learning: [
@@ -18,10 +17,4 @@ forewit = {
     "WebGL"
   ]
 }
-
-</pre>
-
-<pre >
-  languages: [
-  <span>  "Javascript <img height="12" width="12" src="js.png" />,"</span>
 </pre>
