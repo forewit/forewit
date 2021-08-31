@@ -1,7 +1,7 @@
 ![Gif](gm.gif)
 
 ```javascript
-{
+let forewit = {
     name: "Marc Anderson",
     interests: [
         "D&D",
