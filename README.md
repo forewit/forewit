@@ -18,8 +18,11 @@ forewit = {
     "WebGL"
   ]
 }
+<var>forewit</var>
 
 </pre>
+<var>forewit</var>
 
-<pre lang="javascript">
-"Javascript <img height="12" width="12" src="js.png" />,"</pre>
+<pre lang="javascript">"Javascript {},"</pre>
+
+<img height="12" width="12" src="js.png" />
