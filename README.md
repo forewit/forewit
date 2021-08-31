@@ -1,12 +1,5 @@
-| ![Gif](gm.gif) | column |
+| ![Gif](gm.gif) | ``` test ``` |
 | :---: | :---: |
 | test | test |
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 
 # My GitHub Profile
