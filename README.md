@@ -1,8 +1,9 @@
-![Gif](gm.gif) 
+| ![Gif](gm.gif) |
 ```rust
 test 
 test
-```
+``` |
+| :---: | :---: |
 
 
 # My GitHub Profile
