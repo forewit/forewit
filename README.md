@@ -1,7 +1,7 @@
 ![Gif](gm.gif)
 
-```rust
-let mut me = Person {
+```javascript
+{
     name: "Marc Anderson",
     interests: [
         "D&D",
@@ -9,12 +9,12 @@ let mut me = Person {
         "Gaming",
         "Programming"
     ],
-    languages : [
+    languages: [
         "Javascript",
         "HTML / CSS",
         "Java"
     ],
-    learning : [
+    learning: [
         "Rust",
         "WebAssembly",
         "WebGL"
