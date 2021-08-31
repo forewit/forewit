@@ -1,2 +1,5 @@
-![Gif](gm.gif)
-# Welcome to my GitHub Profile
+| ![Gif](gm.gif) | column |
+| :---: | :---: |
+| test | test |
+
+# My GitHub Profile
