@@ -20,4 +20,6 @@ forewit = {
 }
 
 </pre>
-<img height="12" width="12" src="js.png" />
+
+<pre lang="javascript">
+"Javascript <img height="12" width="12" src="js.png" />,"</pre>
