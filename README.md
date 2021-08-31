@@ -1,6 +1,6 @@
 ![Gif](gm.gif)
 
-```javascript
+```rust
 {
     "name": "Marc Anderson",
     "pseudonym": "Forewit",
