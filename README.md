@@ -22,5 +22,6 @@ forewit = {
 </pre>
 
 <pre>
+<span>languages: [</span>
 <span>"Javascript <img height="12" width="12" src="js.png" />,"</span>
 </pre>
