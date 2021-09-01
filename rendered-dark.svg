@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.0833mm" height="89.4292mm" version="1.2" baseProfile="tiny">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79.375mm" height="89.4292mm" version="1.2" baseProfile="tiny">
 <desc>Created by HiQPdf</desc>
 <defs>
 </defs>
@@ -14,7 +14,7 @@
 </g>
 
 <g fill="#161b22" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)">
-<path vector-effect="none" fill-rule="evenodd" d="M6,0 L274,0 C277.314,0 280,2.68629 280,6 L280,332 C280,335.314 277.314,338 274,338 L6,338 C2.68629,338 0,335.314 0,332 L0,6 C0,2.68629 2.68629,0 6,0 "/>
+<path vector-effect="none" fill-rule="evenodd" d="M6,0 L294,0 C297.314,0 300,2.68629 300,6 L300,332 C300,335.314 297.314,338 294,338 L6,338 C2.68629,338 0,335.314 0,332 L0,6 C0,2.68629 2.68629,0 6,0 "/>
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)">
@@ -123,7 +123,11 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="79" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">"D&amp;D",</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="79" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">"D&amp;D"</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="93" y="79" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">,</text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
@@ -131,7 +135,11 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="96" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">"Woodworking",</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="96" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">"Woodworking"</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="149" y="96" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">,</text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
@@ -139,7 +147,11 @@
 </g>
 
 <g fill="#a5d6ff" fill-opacity="1" stroke="#a5d6ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
-<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="113" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">"Gaming",</text>
+<text fill="#a5d6ff" fill-opacity="1" stroke="none" xml:space="preserve" x="58" y="113" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">"Gaming"</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="114" y="113" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">,</text>
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
