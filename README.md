@@ -1,4 +1,4 @@
-<pre><a href="#"><img src="rendered.svg"></a></pre>
+<a href="#"><img src="rendered.svg"></a>
 
 ```javascript
 let Forewit = {
