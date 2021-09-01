@@ -1,22 +1,23 @@
 
 <!-- Use https://www.hiqpdf.com/demo/ConvertHtmlToSvg.aspx to convert this file to an SVG-->
 
-<pre><h3>Forewit</h3>{
-   name: <a href="#">"Marc Anderson"</a>,
-   interests: [
-      "D&D",
-      "Woodworking",
-      "Gaming",
-      "Programming"
+<pre>
+let Forewit = {
+   <a class="attribute">name</a>: <a class="string">"Marc Anderson"</a>,
+   <a class="attribute">interests</a>: [
+      <a class="string">"D&D",</a>
+      <a class="string">"Woodworking",</a>
+      <a class="string">"Gaming",</a>
+      <a class="string">"Programming"</a>
    ],
-    languages: <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/javascript.svg" /> <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/html5.svg" /> [
-      <a href="#">"Javascript"</a>,
-      <a href="#">"HTML"</a>
+   <a class="attribute">languages</a>: <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/javascript.svg" /> <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/html5.svg" /> [
+      <a class="string">"Javascript"</a>,
+      <a class="string">"HTML"</a>
    ],
-   learning: <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/rust.svg" /> <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/webassembly.svg" /> <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/webgl.svg" /> [
-      <a href="#">"Rust"</a>,
-      <a href="#">"WebAssembly"</a>,
-      <a href="#">"WebGL"</a>
+   <a class="attribute">learning</a>: <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/rust.svg" /> <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/webassembly.svg" /> <img style="margin-bottom: -2px;" height="13" src="https://rpcanvas.com/forewit/svg/webgl.svg" /> [
+      <a class="string">"Rust"</a>,
+      <a class="string">"WebAssembly"</a>,
+      <a class="string">"WebGL"</a>
    ]
 }
 </pre>
@@ -54,16 +55,10 @@ html {
     text-decoration: none;
     background-color: transparent;
 }
-h3 {
-    font-size: 1.25em;
-    margin-top: 0px;
-    margin-bottom: 16px;
-    font-weight: 600;
-    line-height: 1.25;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    display: block;
+.string {
+  color: #a5d6ff !important;
+}
+.attribute {
+  color: #79c0ff !important;
 }
 </style>
