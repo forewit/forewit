@@ -7,14 +7,14 @@ forewit = {
     "Gaming",
     "Programming"
   ],
-  languages: [
-    <span><a href="#">"<img height="13" valign="middle" src="img/javascript.png" /> Javascript"</a>,</span>
-    <span><a href="#">"<img height="13"  valign="middle" src="img/html5.png" />/<img height="13"  valign="middle" src="img/css3.png" /> HTML & CSS"</a></span>
+  languages <img height="13" valign="middle" src="img/javascript.png" /> <img height="13"  valign="middle" src="img/html5.png" />: [
+    <a href="#">"Javascript"</a>,
+    <a href="#">"HTML"</a>
   ],
-  learning: [
-    <span><a href="#">"<img height="13" valign="middle" src="img/rust.png" /> Rust"</a>,</span>
-    <span><a href="#">"<img height="13" valign="middle" src="img/webassembly.png" /> WebAssembly"</a>,</span>
-    <span><a href="#">"<img height="13" valign="middle" src="img/webgl.png" /> WebGL"</a></span>
+  learning: <img height="13" valign="middle" src="img/rust.png" /> <img height="13" valign="middle" src="img/webassembly.png" /> <img height="13" valign="middle" src="img/webgl.png" />[
+    <a href="#">"Rust"</a>,
+    <a href="#">"WebAssembly"</a>,
+    <a href="#">"WebGL"</a>
   ]
 }
 </pre>
