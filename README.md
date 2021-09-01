@@ -1,1 +1,1 @@
-<a href="https://rpc.ac"><img src="rendered-dark.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img height="338" src="gm-unscreen.gif"/></a>
+<a href="https://rpc.ac"><img width="300" src="rendered-dark.svg"></a><a href="#"><img valign="top" src="sao.jpg"/></a>
