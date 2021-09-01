@@ -1,6 +1,6 @@
 <pre >
 forewit = {
-  name: "Marc Anderson",
+  name: <a href="#">"Marc Anderson"</a>,
   interests: [
     "D&D",
     "Woodworking",
