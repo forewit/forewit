@@ -1,5 +1,5 @@
 <pre >
-<strong>Forewit</strong> = {
+<h3>Forewit</h3>{
   name: <a href="#">"Marc Anderson"</a>,
   interests: [
     "D&D",
