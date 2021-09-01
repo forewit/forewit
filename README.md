@@ -1,5 +1,12 @@
-<pre >
-<h3>Forewit</h3>{
+<pre>
+<table>
+  <tr>
+    <td colspan="2"><h3>Forewit</h3></td>
+  </tr>
+  <tr>
+    <td><img src="gm.gif" /></td>
+    <td>
+{
   name: <a href="#">"Marc Anderson"</a>,
   interests: [
     "D&D",
@@ -17,4 +24,7 @@
     <a href="#">"WebGL"</a>
   ]
 }
+    </td>
+  </tr>
+</table>
 </pre>
