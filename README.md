@@ -8,7 +8,7 @@ forewit = {
     "Programming"
   ],
   languages: [
-  <span href="#">  "Javascript <img height="12" width="12" src="js.png" />,"</span>
+  <span>  <a href="#">Javascript <img height="12" width="12" src="js.png" />,"</a></span>
     "HTML / CSS",
   ],
   learning: [
