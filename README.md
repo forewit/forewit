@@ -21,8 +21,8 @@
 }
 </pre>
 
-```javascript
-let forewit = {
+```json
+{
   name: "Marc Anderson",
   interests: [
     "D&D",
@@ -40,3 +40,4 @@ let forewit = {
     "WebGL"
   ]
 }
+```
