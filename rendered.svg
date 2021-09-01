@@ -58,7 +58,15 @@
 </g>
 
 <g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
-<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="21" y="12" font-family="Consolas" font-size="12" font-weight="400" font-style="normal"> Forewit </text>
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="21" y="12" font-family="Consolas" font-size="12" font-weight="400" font-style="normal"> </text>
+</g>
+
+<g fill="#ffa657" fill-opacity="1" stroke="#ffa657" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+<text fill="#ffa657" fill-opacity="1" stroke="none" xml:space="preserve" x="28" y="12" font-family="Consolas" font-size="12" font-weight="400" font-style="normal">Forewit</text>
+</g>
+
+<g fill="#c9d1d9" fill-opacity="1" stroke="#c9d1d9" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
+<text fill="#c9d1d9" fill-opacity="1" stroke="none" xml:space="preserve" x="77" y="12" font-family="Consolas" font-size="12" font-weight="400" font-style="normal"> </text>
 </g>
 
 <g fill="#79c0ff" fill-opacity="1" stroke="#79c0ff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)">
