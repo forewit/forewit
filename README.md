@@ -21,8 +21,8 @@
 }
 </pre>
 
-```json
-{
+```rust
+forewit = {
   name: "Marc Anderson",
   interests: [
     "D&D",
@@ -39,5 +39,5 @@
     "WebAssembly",
     "WebGL"
   ]
-}
+};
 ```
