@@ -1,3 +1,6 @@
+<img src="rendered.svg">
+
+
 <pre><h3>Forewit</h3>{
   name: <a href="#">"Marc Anderson"</a>,
   interests: [
