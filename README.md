@@ -21,7 +21,7 @@
 }
 </pre>
 
-```rust
+```javascript
 forewit = {
   name: "Marc Anderson",
   interests: [
