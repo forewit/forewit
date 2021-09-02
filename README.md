@@ -1,1 +1,1 @@
-<a href="https://rpc.ac"><img width="100%" src="rendered-dark.svg"></a>
+<span><a href="https://rpc.ac"><img src="rendered-dark.svg"></a><strong>Hey 👋</strong><img valign="top" height="338" src="kirito.png"></span>
