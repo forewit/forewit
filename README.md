@@ -1,1 +1,1 @@
-<span><a href="https://rpc.ac"><img src="svg/rendered-dark.svg"></a><img align="right" valign="top" height="338" src="kirito.png"></span>
+<span><img src="svg/rendered-dark.svg"></span>
